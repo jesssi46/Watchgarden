@@ -1,4 +1,4 @@
-# Install the required packages
+# Import the required packages
 import os
 from PIL import Image
 
