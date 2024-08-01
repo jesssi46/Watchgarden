@@ -41,10 +41,10 @@ def batch_process_images(input_directory, output_directory, crop_size=200, resiz
 
 
 # Select the path of your input directory
-input_dir = r'C:\Users\jessi\Documents\UNI\Master\2. Semester\IoT & AI on the Edge\Watchgarden_Dummy_Birds\Unkown2'
+input_dir = r'C:\Users\jessi\Documents\UNI\Master\2. Semester\IoT & AI on the Edge\Watchgarden_Dummy_Birds\Unkown'
 
 # Select the path of your output directory
-output_dir = r'C:\Users\jessi\Documents\UNI\Master\2. Semester\IoT & AI on the Edge\Watchgarden_Dummy_Birds\Unkown_output'
+output_dir = r'C:\Users\jessi\Documents\UNI\Master\2. Semester\IoT & AI on the Edge\Watchgarden_Dummy_Birds\Unkown_preprocessed'
 
 
 # Process the images
